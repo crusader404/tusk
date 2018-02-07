@@ -1,3 +1,7 @@
 Hello, this is first file.
 on github,,,
 "hello"
+"hi"
+"namaste"
+
+Thankyou!!
